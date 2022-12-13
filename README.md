@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=mindofbrandon&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=mindofbrandon&theme=dark&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindofbrandon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
